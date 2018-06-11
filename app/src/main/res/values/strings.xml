@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">MyApp</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="app_name">coolweather</string>
+    <string name="title_activity_main">MainActivity1</string>
     <string name="title_activity_weather">WeatherActivity</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--<string name="hello_blank_fragment">Hello blank fragment</string>-->
 </resources>
